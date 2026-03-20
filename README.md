@@ -1,2 +1,3 @@
-# simple-recipe-manager-rnpi
-A recipe management application for modern development workflows
+# Simple Recipe Manager Rnpi
+
+A recipe management application for modern development workflows.
